@@ -5,6 +5,8 @@
 🌍 Based in Sheikhupura, Punjab, Pakistan  
 ✨ Passionate about **responsive web apps, UI/UX, and innovative projects**  
 
+![Profile Views](https://komarev.com/ghpvc/?username=AshubShafqat&style=flat-square&color=blue)
+
 ---
 
 ## 🛠️ Skills & Tools  
@@ -18,12 +20,8 @@
 
 ## 🚀 Projects  
 
-- 🔹 **[EventBuzz](https://github.com/AshubShafqat)**  
-  A PHP-based PWA for event management.  
-  ✨ Features: User Dashboard, Live Chat, Interactive Maps  
-
-- 🔹 **E-Commerce Admin Module**  
-  Laravel-based product management system.  
+- 🔹 **[E-Commerce Admin Module](https://github.com/AshubShafqat/ecommerce-admin-module)**  
+  A **Laravel-based product management system**.  
   ✨ Features: CRUD, Dropzone.js for uploads, SweetAlert2, Sortable Images  
 
 - 🔹 **[Factory Guardian](https://github.com/AshubShafqat/factoryguardian-frontend)**  
@@ -37,7 +35,7 @@
 ## 🎓 Education  
 
 - **BS in Software Engineering (2022 – 2026)**  
-  *University of Agriculture Faisalabad*  
+  *University of Agriculture, Faisalabad*  
 
 - **Computer Operator Certification (2022)**  
   *Algorydhem Developers*  
@@ -70,8 +68,42 @@
 
 ## 📊 GitHub Stats  
 
-![Ashub’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=AshubShafqat&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AshubShafqat&layout=compact&theme=radical)  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AshubShafqat&show_icons=true&theme=radical" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshubShafqat&layout=compact&theme=radical" alt="Top Languages" height="180"/>
+</p>
+
+---
+
+## 🏆 GitHub Trophies  
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AshubShafqat&theme=radical&no-frame=true&margin-w=10&margin-h=10" alt="GitHub Trophies" />
+</p>
+
+---
+
+## 📌 Pinned Projects  
+
+<p align="center">
+  <a href="https://github.com/AshubShafqat/ecommerce-admin-module" title="E-Commerce Admin Module">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AshubShafqat&repo=ecommerce-admin-module&theme=radical" alt="E-Commerce Admin Module" />
+  </a>
+  <a href="https://github.com/AshubShafqat/factoryguardian-frontend" title="Factory Guardian">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AshubShafqat&repo=factoryguardian-frontend&theme=radical" alt="Factory Guardian" />
+  </a>
+  <a href="https://github.com/AshubShafqat/Ashub-Portfolio-" title="Ashub Portfolio">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AshubShafqat&repo=Ashub-Portfolio-&theme=radical" alt="Ashub Portfolio" />
+  </a>
+</p>
+
+---
+
+## 🎯 Fun Facts  
+
+- 🌍 Tourism & Traveling  
+- 🏏 Sports & Fitness  
+- 💡 Exploring new technologies  
 
 ---
 
