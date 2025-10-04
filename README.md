@@ -11,7 +11,7 @@
 
 ## 🛠️ Skills & Tools  
 
-- **Languages:** PHP · JavaScript · C · C++ · Java · SQL  
+- **Languages:** PHP · JavaScript · C · C++ · Python · SQL  
 - **Frameworks & Libraries:** Laravel · React · Next.js · TailwindCSS · Bootstrap  
 - **Databases:** MySQL  
 - **Tools & Platforms:** Git · GitHub · VS Code · Vercel · MATLAB  
